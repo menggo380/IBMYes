@@ -1,4 +1,4 @@
-name: IBM Cloud Auto Restart vghi
+name: IBM Cloud Auto Restart vgh   
 
 on:
   push:
